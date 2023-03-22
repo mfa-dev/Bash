@@ -13,5 +13,6 @@ then start by ./patch.sh
 
 So, after start and then search all JDKs that you have on your Linux server and check need to patch update time zone or not. if not needed to update time zone you received  the massage for that java version is not need to update. 
 
-In addition, if needed to update time zone it do automatically update and end of done it.  you received  the massage JAVA  version is update Time Zone Successfully. 
+In addition, if needed to update time zone it do automatically update and end of done it.  you received  the massage JAVA  version is update Time Zone Successfully.
+
 If you run again you see message  JAVA  version is NOT need to update Time Zone.
