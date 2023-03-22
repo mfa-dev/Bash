@@ -1,4 +1,4 @@
-# Java Time Zone Update
+# Java Time Zone Update for Linux
 
 First Time  after download zip file.
 
