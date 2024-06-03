@@ -14,4 +14,4 @@ So, after start bash script, it will be search all JDKs that you have on your Li
 
 In addition, if needed update time zone it do automatically update and end of the process you received the message JAVA version is update Time Zone Successfully.
 
-If you run command again you see message JAVA version is NOT need to update Time Zone. this means is not need again run command because Time Zone all JDKs have udpated.
+If you run command again you see message JAVA version is NOT need to update Time Zone. this means is not need again run command because Time Zone all JDKs have updated.
